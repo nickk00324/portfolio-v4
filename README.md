@@ -8,4 +8,5 @@ this is my portfolio v4, built with gatsby, and styled components
 
 - add animations between pages
 - switch out the backend for a proper cms
+- dynamic landing page with different quotes and pics
 - other stuff i'll think of later
