@@ -1,0 +1,108 @@
+[
+  {
+    "title": "The Revolting Lumpen! At The Airport",
+    "slug": "lumpy-airport",
+    "type": "Website",
+    "tech_used": "React, Next.js, TypeScript, Sass",
+    "description": "Website made for the artists Beck+Col for their residency at the San Diego International Airport",
+    "url": "https://lumpyairport.com",
+    "image": "./lumpy-airport.gif",
+    "images": [
+      "./images/lumpy-airport/lumpy-airport-1.png",
+      "./images/lumpy-airport/lumpy-airport-2.png",
+      "./images/lumpy-airport/lumpy-airport-3.png",
+      "./images/lumpy-airport/lumpy-airport-4.png",
+      "./images/lumpy-airport/lumpy-airport-5.png"
+    ]
+  },
+  {
+    "title": "Nick Kochornswasdi Gallery",
+    "slug": "nkg",
+    "type": "Art Gallery, Brand Identity, Digital Design, Website",
+    "tech_used": "React, Apollo, GraphQL, Styled Components, Prisma, Next.js",
+    "description": "An art gallery I founded and run.",
+    "url": "https://nickkochornswasdigallery.com",
+    "image": "./nkg.png",
+    "images": [
+      "./images/nkg/nkg-1.jpg",
+      "./images/nkg/nkg-2.png",
+      "./images/nkg/nkg-3.png",
+      "./images/nkg/nkg-4.jpeg",
+      "./images/nkg/nkg-5.png",
+      "./images/nkg/nkg-6.jpg"
+    ]
+  },
+  {
+    "title": "Haunts",
+    "slug": "haunts",
+    "type": "Website, Digital Design",
+    "tech_used": "HTML, CSS, JavaScript, Adobe Illustrator, Adobe Photoshop, Adobe InDesign",
+    "description": "Post-Grad Show for the California Institute of the Arts Art MFA 2019",
+    "url": "http://haunts.xyz",
+    "image": "./haunts.gif",
+    "images": [
+      "./images/haunts/haunts-1.png",
+      "./images/haunts/haunts-2.jpg",
+      "./images/haunts/haunts-3.png",
+      "./images/haunts/haunts-4.png"
+    ]
+  },
+  {
+    "title": "Doth",
+    "slug": "doth",
+    "type": "Website",
+    "tech_used": "React",
+    "description": "A poem writing app.",
+    "url": "https://dothpoems.com",
+    "image": "./doth.gif",
+    "images": [
+      "./images/doth/doth-1.png",
+      "./images/doth/doth-2.png",
+      "./images/doth/doth-3.png",
+      "./images/doth/doth-4.png"
+    ]
+  },
+  {
+    "title": "Assorted Gallery Posters",
+    "slug": "assorted-gallery-posters",
+    "type": "Digital Design",
+    "tech_used": "Adobe Photoshop, Adobe XD, Adobe Illustrator",
+    "description": "A collection of the monthly exhibition posters made for Nick Kochornswasdi Gallery.",
+    "url": "https://nickkochornswasdigallery.com",
+    "image": "./assorted-gallery-posters.png",
+    "images": [
+      "./images/assorted-gallery-posters/assorted-gallery-posters-1.jpg",
+      "./images/assorted-gallery-posters/assorted-gallery-posters-2.jpg",
+      "./images/assorted-gallery-posters/assorted-gallery-posters-3.jpg",
+      "./images/assorted-gallery-posters/assorted-gallery-posters-4.png",
+      "./images/assorted-gallery-posters/assorted-gallery-posters-5.jpg",
+      "./images/assorted-gallery-posters/assorted-gallery-posters-6.png"
+    ]
+  },
+  {
+    "title": "Future Ghosts",
+    "slug": "future-ghosts",
+    "type": "Digital Design",
+    "tech_used": "Adobe Photoshop, Adobe XD, Adobe Illustrator",
+    "description": "A poster made for the California Institute of the Arts Art MFA 2019 Post-Post-Grad Exhibition",
+    "image": "./future_ghosts_web.jpg",
+    "images": ["./images/future-ghosts/future-ghosts-1.jpg"]
+  },
+  {
+    "title": "Please Come Over",
+    "slug": "please-come-over",
+    "type": "Video Game",
+    "tech_used": "Unity, Autodesk Maya",
+    "description": "A video game where we hang out.",
+    "url": "https://night-hugs.itch.io/please-come-over",
+    "image": "./pco.gif",
+    "images": [
+      "./images/please-come-over/please-come-over-1.png",
+      "./images/please-come-over/please-come-over-2.png",
+      "./images/please-come-over/please-come-over-3.png",
+      "./images/please-come-over/please-come-over-4.png",
+      "./images/please-come-over/please-come-over-5.png",
+      "./images/please-come-over/please-come-over-6.png"
+    ]
+  }
+]
