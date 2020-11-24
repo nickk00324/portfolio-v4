@@ -62,6 +62,10 @@ const Menu = styled.div`
     margin: 5px 0;
     color: antiquewhite;
 
+    &:focus {
+      outline: none;
+    }
+
     &:hover {
       color: antiquewhite;
     }

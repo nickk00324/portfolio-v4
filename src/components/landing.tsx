@@ -7,7 +7,6 @@ const Main = styled.div`
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  height: 100%;
   margin-bottom: 64px;
   img {
     width: 500px;
