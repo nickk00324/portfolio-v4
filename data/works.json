@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elijah Ford",
+    "slug": "elijah-ford",
+    "type": "Website",
+    "tech_used": "React, Gatsby, Styled Components, React Spring",
+    "description": "Portfolio site for the artist Elijah Ford",
+    "url": "https://elijahford.com",
+    "image": "./elijah-ford.gif",
+    "images": [
+      "./images/elijah-ford/elijah-ford-1.png",
+      "./images/elijah-ford/elijah-ford-2.png",
+      "./images/elijah-ford/elijah-ford-3.png",
+      "./images/elijah-ford/elijah-ford-4.png",
+      "./images/elijah-ford/elijah-ford-5.png"
+    ]
+  },
+  {
     "title": "The Revolting Lumpen! At The Airport",
     "slug": "lumpy-airport",
     "type": "Website",
