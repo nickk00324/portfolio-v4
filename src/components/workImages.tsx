@@ -32,13 +32,10 @@ const WorkImages = ({ images }: any) => {
 
   const imgs = images ? images : []
 
-  console.log(imgs)
-
   return (
     <Grid>
       {imgs.map((image: any, i: number) => {
         if (i % 3 === 0) {
-          console.log(i)
           return (
             <FullItem>
               <Img fluid={image.childImageSharp.fluid} />

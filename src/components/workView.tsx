@@ -34,7 +34,6 @@ const WorkView = (props: WorkViewProps) => {
     url,
     images,
   } = props.data.worksJson
-  console.log(props)
   return (
     <Layout>
       <Container>
