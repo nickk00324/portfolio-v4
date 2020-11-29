@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import styled from "styled-components"
-import { Link } from "gatsby"
+import Link from "gatsby-plugin-transition-link/AniLink"
 import WorkCard from "./workCard"
 
 const Grid = styled.div`
@@ -35,7 +35,7 @@ const Works = () => {
   return (
     <Grid>
       {allWorks.map((w: any) => (
-        <Link to={`/work/${w.node.slug}`}>
+        <Link fade to={`/work/${w.node.slug}`}>
           <WorkCard title={w.node.title} image={w.node.image} />
         </Link>
       ))}

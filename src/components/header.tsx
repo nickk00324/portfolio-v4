@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import { Link } from "gatsby"
+import Link from "gatsby-plugin-transition-link/AniLink"
 import Popup from "reactjs-popup"
 import hamburger from "../images/hamburger.svg"
 import cross from "../images/cross.svg"
@@ -75,13 +75,19 @@ const Menu = styled.div`
 const Header = () => {
   return (
     <Container>
-      <Link to="/">
+      <Link fade to="/">
         <Logo>nick kochornswasdi</Logo>
       </Link>
       <Nav>
-        <Link to="/work">work</Link>
-        <Link to="/about">about</Link>
-        <Link to="/contact">contact</Link>
+        <Link fade to="/work">
+          work
+        </Link>
+        <Link fade to="/about">
+          about
+        </Link>
+        <Link fade to="/contact">
+          contact
+        </Link>
       </Nav>
       <StyledPopup
         trigger={open => (
@@ -92,9 +98,15 @@ const Header = () => {
         position="bottom right"
       >
         <Menu>
-          <Link to="/work">work</Link>
-          <Link to="/about">about</Link>
-          <Link to="/contact">contact</Link>
+          <Link fade to="/work">
+            work
+          </Link>
+          <Link fade to="/about">
+            about
+          </Link>
+          <Link fade to="/contact">
+            contact
+          </Link>
         </Menu>
       </StyledPopup>
     </Container>

@@ -33,12 +33,14 @@ const Face = () => {
 
   return (
     <FaceContainer>
-      <Img
-        fluid={data.placeholderImage.childImageSharp.fluid}
-        style={{ width: 300 }}
-      />
-      <h2>Nick Kochornswasdi</h2>
-      <p>Los Angeles, CA</p>
+      <a href="https://www.linkedin.com/in/nick-kochornswasdi/">
+        <Img
+          fluid={data.placeholderImage.childImageSharp.fluid}
+          style={{ width: 300 }}
+        />
+        <h2>Nick Kochornswasdi</h2>
+        <p>Los Angeles, CA</p>
+      </a>
     </FaceContainer>
   )
 }
