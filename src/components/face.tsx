@@ -6,6 +6,7 @@ import Img from "gatsby-image"
 const FaceContainer = styled.div`
   display: block;
   margin-top: 32px;
+  width: fit-content;
   h2 {
     margin-bottom: 0;
   }
