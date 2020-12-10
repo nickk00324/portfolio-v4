@@ -2,7 +2,7 @@
 
 ## about
 
-this is my portfolio v4, built with gatsby, and styled components
+this is my portfolio v4, built with gatsby, and styled components. here's a link! [here](https://nickkochornswasdi.com)
 
 ## things to do
 
